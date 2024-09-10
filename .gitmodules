@@ -4,3 +4,9 @@
 [submodule "atuin"]
 	path = atuin
 	url = git@github.com:mvandermeulen/atuin_config.git
+[submodule "espanso"]
+	path = espanso
+	url = git@github.com:mvandermeulen/espanso.git
+[submodule "kbd"]
+	path = kbd
+	url = git@github.com:mvandermeulen/kbd.git
