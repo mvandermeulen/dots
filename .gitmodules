@@ -1,0 +1,6 @@
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:mvandermeulen/alacritty_config.git
+[submodule "atuin"]
+	path = atuin
+	url = git@github.com:mvandermeulen/atuin_config.git
