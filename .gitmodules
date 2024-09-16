@@ -10,3 +10,6 @@
 [submodule "kbd"]
 	path = kbd
 	url = git@github.com:mvandermeulen/kbd.git
+[submodule "ssh"]
+	path = ssh
+	url = git@github.com:mvandermeulen/ssh_config.git
