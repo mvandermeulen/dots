@@ -13,3 +13,6 @@
 [submodule "ssh"]
 	path = ssh
 	url = git@github.com:mvandermeulen/ssh_config.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:mvandermeulen/nvim.git
